@@ -3,7 +3,12 @@ postgres:15
 teslamate/grafana:latest
 eclipse-mosquitto:2
 portainer/portainer-ce:latest
-ghcr.io/hotio/jellyseerr
-ghcr.io/hotio/jackett
-ghcr.io/hotio/prowlarr
-ghcr.io/hotio/qbittorrent
+ghcr.io/hotio/jellyseerr:latest
+ghcr.io/hotio/jackett:latest
+ghcr.io/hotio/prowlarr:latest
+ghcr.io/hotio/qbittorrent:latest
+messense/aliyundrive-webdav:latest
+allanpk716/chinesesubfinder:latest
+ghcr.io/monlor/xiaoya-alist:latest
+ddsderek/xiaoya-emd:latest
+ghcr.io/monlor/xiaoya-metadata:latest
