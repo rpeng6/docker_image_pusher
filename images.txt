@@ -18,3 +18,5 @@ ghcr.io/sagernet/sing-box:latest
 ghcr.io/akafeng/sing-box:latest
 sulinggg/openwrt:x86_64
 openwrt/openwrt：latest
+dreamacro/clash:latest
+haishanh/yacd:latest
