@@ -12,3 +12,9 @@ allanpk716/chinesesubfinder:latest
 ghcr.io/monlor/xiaoya-alist:latest
 ddsderek/xiaoya-emd:latest
 ghcr.io/monlor/xiaoya-metadata:latest
+pymumu/smartdns:latest
+google/cadvisor:latest
+ghcr.io/sagernet/sing-box:latest
+ghcr.io/akafeng/sing-box:latest
+sulinggg/openwrt:x86_64
+openwrt/openwrt：latest
