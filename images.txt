@@ -19,4 +19,4 @@ ghcr.io/akafeng/sing-box:latest
 sulinggg/openwrt:x86_64
 dreamacro/clash:latest
 haishanh/yacd:latest
-sbzr/udpxy:latest
+tinyserve/udpxy:latest
